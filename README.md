@@ -1,2 +1,2 @@
 # python-cj-2
-learning python
+learning python with students
