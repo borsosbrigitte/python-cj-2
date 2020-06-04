@@ -124,15 +124,15 @@
 
 # a2a problema
 
-def aparitii(string):
-    d = dict()
-    for n in string:
-        keys = d.keys()
-        if n in keys:
-            d[n] = d[n] + 1
-        else:
-            d[n] = 1
-    return d
-
-
-print(aparitii("hello"))
+# def aparitii(string):
+#     d = dict()
+#     for n in string:
+#         keys = d.keys()
+#         if n in keys:
+#             d[n] = d[n] + 1
+#         else:
+#             d[n] = 1
+#     return d
+#
+#
+# print(aparitii("hello"))
